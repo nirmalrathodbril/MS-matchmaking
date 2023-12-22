@@ -32,15 +32,6 @@ This repository contains a Java backend application for a Chess Matchmaking Micr
     java -jar target/chess-matchmaking-microservice.jar
     ```
 
-## Usage
-
-- **Player Registration:**
-  - Use the `/players/register` endpoint to register players.
-- **Waiting Screen:**
-  - Players will experience a waiting screen while the system searches for opponents.
-- **Matchmaking Algorithm:**
-  - Matchmaking is triggered automatically based on player registrations. The system will search for the opponent based on
-
 ## API
 ## Endpoint: `/join`
 
