@@ -23,13 +23,13 @@ This repository contains a Java backend application for a Chess Matchmaking Micr
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/your-username/chess-matchmaking-microservice.git
+    git clone https://github.com/your-username/MS-matchmaking.git
     ```
 
 2. **Build and Run:**
     ```
     mvn clean install
-    java -jar target/chess-matchmaking-microservice.jar
+    java -jar target/MS-matchmaking.jar
     ```
 
 ## API
